@@ -3,7 +3,8 @@
 This project applies supervised machine learning techniques to predict whether a patient is diabetic based on diagnostic health features. It uses the popular **PIMA Indians Diabetes Dataset** from the **National Institute of Diabetes and Digestive and Kidney Diseases**.
 
 ---
-![image](https://github.com/user-attachments/assets/229e809b-4298-4e74-8b1d-5daa5ac595fe)
+![image](https://github.com/user-attachments/assets/d12b27ed-0430-4e51-bd58-c61f7f63b15d)
+
 
 
 ## Dataset Overview
