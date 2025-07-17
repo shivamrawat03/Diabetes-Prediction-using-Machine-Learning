@@ -39,7 +39,6 @@ This project applies supervised machine learning techniques to predict whether a
 
 - **Logistic Regression**
 - **Support Vector Machine (SVM)**
-- **Random Forest Classifier**
 
 Each model was tuned using **GridSearchCV** for hyperparameter optimization.
 
