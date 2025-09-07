@@ -36,9 +36,14 @@ This project applies supervised machine learning techniques to predict whether a
 ---
 
 ## Models Used
+We apply and compare the performance of the following machine learning models:
 
-- **Logistic Regression**
-- **Support Vector Machine (SVM)**
+1. **Support Vector Machine (SVM)**  
+2. **Logistic Regression**
+3. **Decision Tree Classifier**
+4. **Random Forest Classifier**
+5. **Gradient Boosting Classifier**
+6. **K-Neighbors Classifier**
 
 Each model was tuned using **GridSearchCV** for hyperparameter optimization.
 
@@ -54,10 +59,10 @@ Each model was tuned using **GridSearchCV** for hyperparameter optimization.
 
 ## Evaluation Metrics
 
-- Accuracy: ~77–80%
+- Accuracy: ~88-90%
 - ROC AUC Score: Tracked for model comparison
 - Confusion Matrix: Analyzed for Type I and II errors
-- Threshold adjusted from 0.5 → 0.4 to reduce missed diabetic cases
+- Threshold adjusted from 0.5 → 0.3 to reduce missed diabetic cases.
 
 ---
 
