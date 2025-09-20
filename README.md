@@ -42,8 +42,6 @@ We apply and compare the performance of the following machine learning models:
 2. **Logistic Regression**
 3. **Decision Tree Classifier**
 4. **Random Forest Classifier**
-5. **Gradient Boosting Classifier**
-6. **K-Neighbors Classifier**
 
 Each model was tuned using **GridSearchCV** for hyperparameter optimization.
 
